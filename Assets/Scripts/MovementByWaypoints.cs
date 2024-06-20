@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovingSphere : TransformationObject
+public class MovementByWaypoints : MonoBehaviour
 {
+    [SerializeField] private float _speed;
     [SerializeField] private List<Transform> _waypoints;
 
     private int _currentWaypointIndex = 0;
@@ -12,7 +13,7 @@ public class MovingSphere : TransformationObject
 
     private void Update()
     {
-        Move();
+        MoveToCurrentWaypoint();
 
         if (IsWaypointReached())
         {
@@ -20,11 +21,11 @@ public class MovingSphere : TransformationObject
         }
     }
 
-    protected new void Move()
+    private void MoveToCurrentWaypoint()
     {
         transform.position = Vector3.MoveTowards(transform.position,
                                                  CurrentWaypoint.position,
-                                                 _moveSpeed * Time.deltaTime);
+                                                 _speed * Time.deltaTime);
     }
 
     private bool IsWaypointReached()

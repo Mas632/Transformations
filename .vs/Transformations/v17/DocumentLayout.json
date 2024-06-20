@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Transformations\\Transformations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C753D77A-766F-8875-0018-5260DBD25475}|Assembly-CSharp.csproj|c:\\unity projects\\transformations\\transformations\\assets\\scripts\\forwardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C753D77A-766F-8875-0018-5260DBD25475}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\forwardmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C753D77A-766F-8875-0018-5260DBD25475}|Assembly-CSharp.csproj|C:\\Unity Projects\\Transformations\\Transformations\\assets\\scripts\\movementbywaypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C753D77A-766F-8875-0018-5260DBD25475}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementbywaypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C753D77A-766F-8875-0018-5260DBD25475}|Assembly-CSharp.csproj|C:\\Unity Projects\\Transformations\\Transformations\\assets\\scripts\\rotatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C753D77A-766F-8875-0018-5260DBD25475}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Transformations\\Transformations\\assets\\scriipts\\resizement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scriipts\\resizement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Transformations\\Transformations\\assets\\scriipts\\movementbywaypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scriipts\\movementbywaypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForwardMovement.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scripts\\ForwardMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ForwardMovement.cs",
+              "ToolTip": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scripts\\ForwardMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ForwardMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:55:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementByWaypoints.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scripts\\MovementByWaypoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementByWaypoints.cs",
+              "ToolTip": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scripts\\MovementByWaypoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementByWaypoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:52:05.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rotatement.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scripts\\Rotatement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotatement.cs",
+              "ToolTip": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scripts\\Rotatement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotatement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:50:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resizement.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scriipts\\Resizement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriipts\\Resizement.cs",
+              "ToolTip": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scriipts\\Resizement.cs",
+              "RelativeToolTip": "Assets\\Scriipts\\Resizement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:45:32.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovementByWaypoints.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scriipts\\MovementByWaypoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriipts\\MovementByWaypoints.cs",
+              "ToolTip": "C:\\Unity Projects\\Transformations\\Transformations\\Assets\\Scriipts\\MovementByWaypoints.cs",
+              "RelativeToolTip": "Assets\\Scriipts\\MovementByWaypoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:43:40.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

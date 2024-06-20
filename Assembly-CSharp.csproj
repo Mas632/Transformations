@@ -60,10 +60,10 @@
     <Analyzer Include="C:\Program Files\Unity 2022.3.31f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scriipts\TransformationObject.cs" />
-    <Compile Include="Assets\Scriipts\RotatingCube.cs" />
-    <Compile Include="Assets\Scriipts\ResizableCapsule.cs" />
-    <Compile Include="Assets\Scriipts\MovingSphere.cs" />
+    <Compile Include="Assets\Scripts\Rotatement.cs" />
+    <Compile Include="Assets\Scripts\MovementByWaypoints.cs" />
+    <Compile Include="Assets\Scripts\ForwardMovement.cs" />
+    <Compile Include="Assets\Scripts\Resizement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
